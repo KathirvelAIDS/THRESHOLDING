@@ -26,8 +26,8 @@ Display the Results
 
 ## Program
 ```
-Developed By: Jegathish S
-Register No: 212221230041
+Developed By: KATHIRVEL.A
+Register No: 212221230047
 ```
 
 ```
@@ -70,20 +70,59 @@ for i in range(0,8):
 ## Output
 
 ### Original Image
-![output](1.png)
-![output](2.png)
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/827aee40-1059-41be-9bd1-65ff79e25dc5)
+
 
 ### Global Thresholding
-![output](3.png)
-![output](4.png)
-![output](5.png)
-![output](6.png)
-![output](7.png)
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/663d1aca-3cbd-40dc-b4b7-990b0e592e5f)
+
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/c818a0cb-de95-402a-a025-a596f81df1e6)
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/74934b5f-39ac-461c-ab74-e3c3d440eded)
+
+
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/0464a030-725c-4adc-b060-4334595cb5b3)
+
+
+
 ### Adaptive Thresholding
-![output](8.png)
-![output](9.png)
+
+
+
+
+
+
+
+
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/e20b062e-628b-4458-94e2-107b79f78a9a)
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/dd32010c-4144-463b-a0f2-9edfb4c9e586)
+
+
+
 ### Optimum Global Thesholding using Otsu's Method
-![output](10.png)
+
+
+
+
+![image](https://github.com/KathirvelAIDS/THRESHOLDING/assets/94911373/42e2b305-f8c3-4f8e-8ffd-35a29aed4c4d)
+
+
+
+
+
+
+
+
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
